@@ -109,11 +109,6 @@ void deleteend() {
 
 int main() {
     int choice, data;
-    
-    printf("My name is Vaibhav Jain and My SAP ID IS '500123594' \n");
-    printf("Welcome to Array: \n");
-    
-
     do {
         printf("\nMenu:\n");
         printf("1. Display\n");
